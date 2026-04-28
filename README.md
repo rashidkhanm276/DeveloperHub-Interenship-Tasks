@@ -1,9 +1,9 @@
 Data Analytics & Machine Learning Projects
 
-Description
+Description :-
 This repository contains multiple projects completed during my Data Analyst learning journey and internship at Developer Hub Corporation. These projects focus on data analysis, visualization, and machine learning using real-world datasets.
 
-Skills 
+Skills :- 
   Data Loading
   Data Inspection
   Data Cleaning
@@ -20,7 +20,7 @@ Skills
   Data Storytelling
 
 
-Projects Overview
+Projects Overview :- 
 
 Task 1: Exploring and Visualizing a Simple Dataset
    Objective
@@ -98,7 +98,7 @@ Task 5: Personal Loan Prediction
     Built classification models
     Analyzed customer behavior
 
-Conclusion
+Conclusion :- 
 These projects reflect my practical skills in data analysis and machine learning, preparing me for real-world data analyst roles.
 
 These projects demonstrate my ability to:
